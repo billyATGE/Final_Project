@@ -1,22 +1,6 @@
 # Machine Learning Stock Predictions | GT Data Science & Analytics Bootcamp | Final Project
 
-
-What your proposal should include:
-
-Team Members: Chris, Saibal, Billy, & Danielle 
-
-● A brief articulation of your chosen topic and rationale
-    We are trying to run machine learning algorithm to predict anomalies of when report earnings
-    In this project we set out to identify stock trends using catgorical machine learning algorithms. 
-     
-●  A link to your data set(s) and a screenshot of the metadata if it exists.
-    http://theautomatic.net/yahoo_fin-documentation/
-
-●  3 or 4 screenshots of relevant, “inspiring” visualizations that frame your creative fodder
-
-●  A link to the primary GitHub repository you’ll be housing your work in
-
-https://github.com/Obi-1-kenobi/Final_Project
+In this project we set out to identify stock prices using machine learning algorithms. We want to leverage technologies like Pandas, Plotly, and Tableau to visualize graphs that compare report earnings to the increase or decrease of stock prices. 
 
 ## About The Project
 
